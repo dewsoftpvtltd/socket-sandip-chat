@@ -1,0 +1,8 @@
+{
+  "name": "socket-sandip-chat",
+  "version": "0.0.1",
+  "description": "my fifth socket.io app",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
